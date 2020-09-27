@@ -4,7 +4,7 @@
 ![](starshooter.png)
 
 # Comment jouer
-Telechargez le projet <a href="https://maxence.website/files/StarwarsShooter/StarWarsShooter.zip" target="_blank">Ici</a> (230Mo)
+Telechargez le projet <a href="https://maxence.website/files/StarWarsShooter.zip" target="_blank">Ici</a> (230Mo)
 puis exécutez `Star Wars Shooter.exe`.
 
 En jeu, utilisez les flèche directionnelle pour vous déplacer et la souris pour viser et tirer.
